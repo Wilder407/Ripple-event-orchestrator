@@ -8,7 +8,7 @@
 > half days for the hackathon. The core pipeline works end to end on sample documents; live
 > email, meeting-note and project-tool integrations are next. See [Roadmap](#roadmap).
 
-**[Watch the Demo](https://vimeo.com/1248009624?share=copy&fl=sv&fe=ci)**
+**[Watch the Demo](https://vimeo.com/1248013432?share=copy&fl=sv&fe=ci)**
 
 <!-- Add a short demo GIF here, e.g. ![Ripple demo](docs/demo.gif) -->
 
